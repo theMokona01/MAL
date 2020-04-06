@@ -11,7 +11,7 @@ Thanks to Doomcat55 (covers generator), BurntJelly (genres, synopsis generator),
 
 /* generated informations (copy your generated CSS below) */
 
-@import url("https://dl.dropbox.com/s/iftvluj97x3bmob/synopsis.css");
+/*@import url("https://dl.dropbox.com/s/iftvluj97x3bmob/synopsis.css");*/
 
 /* COVER AREA
 The area taken up by covers.
@@ -25,7 +25,7 @@ The area taken up by covers.
 
 /* HD COVER SIZE
 The size of covers seen.
-*/ 
+*/
 .data.image a:before{
 background-size: cover !important;
 height: 250px !important;
@@ -36,7 +36,7 @@ background-position: center center !important;
 
 /* LOW RES COVER SIZE
 You only see this if the import for high res covers goes down.
-*/ 
+*/
 a img{
 background-size: cover !important;
 height: 250px !important;
@@ -109,7 +109,7 @@ margin-bottom: 200px;
 }
 
 .header .header-title {
-background-image: url("/img/pc/ownlist/logo_mal.png"); 
+background-image: url("/img/pc/ownlist/logo_mal.png");
 }
 
 .header .header-menu .btn-menu,
