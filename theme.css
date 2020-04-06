@@ -22,6 +22,9 @@ The area taken up by covers.
 --width-img: 178px !important;
 }
 
+img {
+  image-rendering: pixelated;
+}
 
 /* HD COVER SIZE
 The size of covers seen.
